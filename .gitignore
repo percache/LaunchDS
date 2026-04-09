@@ -1,0 +1,25 @@
+# Build artifacts
+.theos/
+packages/
+build/
+DerivedData/
+
+# IDE
+*.xcuserdata
+*.xcworkspace/xcuserdata/
+*.xcodeproj/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Theos
+obj/
+
+# Generated
+generate_xcodeproj.py

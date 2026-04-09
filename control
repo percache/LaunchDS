@@ -1,0 +1,9 @@
+Package: com.antoineds.app
+Name: AntoineDS
+Depends: firmware (>= 15.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: System Log Viewer powered by DarkSword kernel exploit
+Maintainer: AntoineDS
+Author: AntoineDS
+Section: Applications
